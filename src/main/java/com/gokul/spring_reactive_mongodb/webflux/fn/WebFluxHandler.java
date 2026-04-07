@@ -1,7 +1,6 @@
 package com.gokul.spring_reactive_mongodb.webflux.fn;
 
 import com.gokul.spring_reactive_mongodb.model.Student;
-import com.gokul.spring_reactive_mongodb.repository.StudentRepository;
 import com.gokul.spring_reactive_mongodb.service.StudentService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
